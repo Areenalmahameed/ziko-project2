@@ -1,5 +1,5 @@
 import { createFileRoute } from "@tanstack/react-router";
-import { Navbar } from "@/components/ziko/navbar";
+import Navbar from "@/components/ziko/navbar"
 import { Hero } from "@/components/ziko/Hero";
 import { About } from "@/components/ziko/About";
 import { Components } from "@/components/ziko/Components";
